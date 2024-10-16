@@ -1,0 +1,25 @@
+.search {
+  display: flex;
+}
+
+.serach > {
+}
+
+.search-box {
+  width: 500px;
+  border: solid grey;
+  border-radius: 20px;
+  padding: 9px;
+}
+
+.search-box .search-text {
+  
+}
+.more {
+  border: solid grey;
+  border-radius: 20px;
+  padding: 9px;
+}
+.logo-serach {
+  /* width: 20px; */
+}
